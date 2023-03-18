@@ -1,0 +1,22 @@
+{
+  "who": [
+    {
+      "id": 1,
+      "first_name": "Samy",
+      "last_name": "CHBINOU",
+      "email": "samy.chbinou@esna.cloud"
+    },
+    {
+      "id": 2,
+      "first_name": "Amie",
+      "last_name": "Binouse",
+      "email": "amie.binouse@esna.cloud"
+    },
+    {
+      "id": 3,
+      "first_name": "IMe",
+      "last_name": "BeNode",
+      "email": "ime.binode@esna.cloud"
+    }
+  ]
+}
